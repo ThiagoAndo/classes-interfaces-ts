@@ -45,4 +45,7 @@ user1 = new Person();
 user1.greet('Hi there - I am');
 console.log(user1);
 
-//more contributions
+//more contribution 
+
+//an other contribution
+
